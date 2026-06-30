@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR4j0019/v1
+canonical_location: https://kanripo.org/bkk/KR4j0019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 和清真詞
+  date: '2015-08-25 00:47:25.580632'
+  source:
+    repository: kanripo
+    path: KR4j0019
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0019_000.yaml, hash: 'sha256:b74da0fbca42e319661bea27bb413b7e9637d05166d6ec106c23313522801047'}
+  - {seq: 1, filename: KR4j0019_001.yaml, hash: 'sha256:3f476d64cb7ae3fd7939aef0e2d5b7e51a6e2d960b88d88c807f398ed1585612'}
+  - {seq: 2, filename: KR4j0019_002.yaml, hash: 'sha256:4236a69877c3b8e03e90c630f022d15710e442d2d6b93893d20cbf903a92a9a6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0019_000.markers.yaml, hash: 'sha256:e34e843276921064066a75446557fe03be17978d1e47246f94783089a0234cbe'}
+  - {seq: 1, role: markers, filename: assets/KR4j0019_001.markers.yaml, hash: 'sha256:683d95fd22cdfddc76a8b36a73e01a312ee118af846714424be07de89d4c73dd'}
+  - {seq: 2, role: markers, filename: assets/KR4j0019_002.markers.yaml, hash: 'sha256:a7843b9d3e82937c5db43ee68e2c0a372b278ad74382a7e2bc215318b1ea78fa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0019_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 572
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0019_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 7457
+  label: 和清真詞
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0019_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 92
+  label: 原跋
+  type: section
+  level: 1
+hash: sha256:878887da3f5c480e6eb4a62aa66489798ce045c7ef89799a4815b1de38556b58
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

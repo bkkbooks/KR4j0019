@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0019/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 和清真詞原跋美成當徽廟時提舉大晟樂府每製一調名流輒依律賡唱獨東楚方千里樂安楊澤民有和清真全詞各一巻或合為三英集行世花菴詞客止選千里過秦樓風流子訴衷情三闋而澤民不載豈揚劣于方耶湖南毛晉識
+  hash: sha256:263f9bd4a57ba4b0f75b63952e76279b2d11ccffd5419484246aa069314e2c0c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0019_WYG_002-1a, image: WYG1487/WYG1487-0448c.png}
+metadata:
+  title: 和清真詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:47:25.580632'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR4j0019/KR4j0019_002.txt
+hash: sha256:fa3e0fbdc4057faba208e6efd2e266314b3f2161bae9935c00ea303805a241e7
