@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 和清真詞原跋美成當徽廟時提舉大晟樂府每製一調名流輒依律賡唱獨東楚方千里樂安楊澤民有和清真全詞各一巻或合為三英集行世花菴詞客止選千里過秦樓風流子訴衷情三闋而澤民不載豈揚劣于方耶湖南毛晉識
-  hash: sha256:263f9bd4a57ba4b0f75b63952e76279b2d11ccffd5419484246aa069314e2c0c
+  text: 和清真詞原跋美成當徽廟時提舉大晟樂府每製一調名流輒依律賡唱獨東楚方千里樂安楊澤民有和清真全詞各一卷或合為三英集行世花菴詞客止選千里過秦樓風流子訴衷情三闋而澤民不載豈揚劣于方耶湖南毛晉識
+  hash: sha256:c81fb1d4fe071fb191c8ef6553edac2fce6095a012c9f08225c30052a71be748
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0019_WYG_002-1a, image: WYG1487/WYG1487-0448c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0019/KR4j0019_002.txt
-hash: sha256:3d071e349f51e97758e65ef7c84575f3afef156a8f6e44d081487f109775bc3b
+hash: sha256:4236a69877c3b8e03e90c630f022d15710e442d2d6b93893d20cbf903a92a9a6
